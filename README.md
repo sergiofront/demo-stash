@@ -1,3 +1,3 @@
-# Motivo
+# Notas
 
-Este repositorio sirve para probar cosas
+Este es un repositorio de la liga de la justicia
