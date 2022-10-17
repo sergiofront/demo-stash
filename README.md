@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 # Objetivos
+=======
+# Objetivos 
+>>>>>>> Stashed changes
 
 Este es un repositorio de la liga de la justicia
 
